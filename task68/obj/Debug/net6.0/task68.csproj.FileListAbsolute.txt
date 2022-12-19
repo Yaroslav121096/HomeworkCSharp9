@@ -1,0 +1,15 @@
+C:\Studies\CSharp\HomeworkCSharp9\task68\obj\Debug\net6.0\task68.csproj.AssemblyReference.cache
+C:\Studies\CSharp\HomeworkCSharp9\task68\obj\Debug\net6.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studies\CSharp\HomeworkCSharp9\task68\obj\Debug\net6.0\task68.AssemblyInfoInputs.cache
+C:\Studies\CSharp\HomeworkCSharp9\task68\obj\Debug\net6.0\task68.AssemblyInfo.cs
+C:\Studies\CSharp\HomeworkCSharp9\task68\obj\Debug\net6.0\task68.csproj.CoreCompileInputs.cache
+C:\Studies\CSharp\HomeworkCSharp9\task68\bin\Debug\net6.0\task68.exe
+C:\Studies\CSharp\HomeworkCSharp9\task68\bin\Debug\net6.0\task68.deps.json
+C:\Studies\CSharp\HomeworkCSharp9\task68\bin\Debug\net6.0\task68.runtimeconfig.json
+C:\Studies\CSharp\HomeworkCSharp9\task68\bin\Debug\net6.0\task68.dll
+C:\Studies\CSharp\HomeworkCSharp9\task68\bin\Debug\net6.0\task68.pdb
+C:\Studies\CSharp\HomeworkCSharp9\task68\obj\Debug\net6.0\task68.dll
+C:\Studies\CSharp\HomeworkCSharp9\task68\obj\Debug\net6.0\refint\task68.dll
+C:\Studies\CSharp\HomeworkCSharp9\task68\obj\Debug\net6.0\task68.pdb
+C:\Studies\CSharp\HomeworkCSharp9\task68\obj\Debug\net6.0\task68.genruntimeconfig.cache
+C:\Studies\CSharp\HomeworkCSharp9\task68\obj\Debug\net6.0\ref\task68.dll
